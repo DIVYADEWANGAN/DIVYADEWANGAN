@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/DIVYADEWANGAN/DIVYADEWANGAN/assets/76840574/31fbafa8-f248-4861-89e1-834784688edf)
 
-<h1 align="center">Hi 👋, I'm Divya bhushasn Dewangan</h1>
+<h1 align="center">Hi 👋, I'm Divya bhushan Dewangan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <IMG align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
